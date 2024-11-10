@@ -1,6 +1,6 @@
-## microservises_study_task
+# microservises_study_task
 
-# Учебное задание по настройке RabbitMQ.
+## Учебное задание по настройке RabbitMQ.
 
 В рамках дз выполнено:
 
